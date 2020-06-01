@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="ApiTestingSuite">
+    <test name="ApiTest">
+        <groups>
+            <run>
+                <!--<include name="WsBOCarList1"/>-->
+                <include name="testPostDateAnnulment"/>
+                <!--<include name="WS_BOCarCode"/>-->
+                <!--<include name="WS_BOCar_Promo"/>-->
+                <!--<include name="WS_BOPromoVehicleList"/>-->
+            </run>
+        </groups>
+        <packages>
+            <package name="com.movil.test.services.common"/>
+            <package name="com.movil.test.services.test"/>
+            <package name="com.movil.test.services"/>
+        </packages>
+    </test>
+</suite>
