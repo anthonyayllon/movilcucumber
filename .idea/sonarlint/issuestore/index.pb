@@ -1,3 +1,27 @@
 
 7
 pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+f
+6src/test/java/com/movil/test/features/services.feature,2\c\2c9fc132704fde8e287cd51cfbac757fb6a3206e
+l
+<src/test/java/com/movil/test/features/operationvodqa.feature,8\9\8973c995e5d682b51285d9de3cc50af45c9b8a89
+e
+5src/test/java/com/movil/test/pages/OperationPage.java,5\4\54425000593f89fa9240e39612c5bb3d79615e87
+e
+5src/test/java/com/movil/test/steps/ServicesSteps.java,d\f\df64ae196b1a343ab762ee9e7b516b1c31ee25f5
+^
+.src/test/java/com/movil/test/utility/Hook.java,c\d\cd75aced112f3c3c813be4428ce7f7d6bfbd18ee
+d
+4src/test/java/com/movil/test/utility/CommunUtil.java,4\d\4d24cfb2d1e43e018e61a7ecfa08b3f343fc045e
+f
+6src/test/java/com/movil/test/steps/OperationSteps.java,c\6\c6bd39ac22df2ae24422d73125626275546a0385
+s
+Csrc/test/java/com/movil/test/services/RestAssuredConfiguration.java,6\c\6c1b1fca542d37d2960679b10ab8e62096b1da8c
+b
+2src/test/java/com/movil/test/utility/Constant.java,4\2\424da9c2a9ea5b227152ad8a85fc0e115d8a07b7
+l
+<src/test/java/com/movil/test/utility/CommonServicesUtil.java,1\0\109b9959cbb010b874be326d022a0f2273020274
+u
+Esrc/test/java/com/movil/test/features/ServiceCreateCoreClient.feature,c\e\ce562f81754de8f100fcaf77ea40374d1228cdc5
+p
+@src/test/java/com/movil/test/steps/ServiceCreateClientSteps.java,b\c\bc3ac0e2c42ac81a62d0366cff4f3a191487748c

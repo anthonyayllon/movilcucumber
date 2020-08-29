@@ -5,7 +5,7 @@ Feature: Uso de funciones del app VodQa
   Scenario: Validar login exitoso
     Then Enviar los parametros usuario "bob" y password "123456"
 
-  @appium
+
   Scenario: User calls web service to get a book by its ISBN
     Given a book exists with an isbn of "9781451648546"
 
@@ -25,8 +25,6 @@ Feature: Uso de funciones del app VodQa
   Scenario: User calls web service to get a workers and get object of the body
     Given response json get object of the body
 
-
-  @appium
   Scenario: User calls web service to update employe
     Then update the employe for id "15410"
 

@@ -1,7 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="17475cb3-5f7f-4793-8bfa-da528f7e0ba1" name="Default Changelist" comment="" />
+    <list default="true" id="17475cb3-5f7f-4793-8bfa-da528f7e0ba1" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/movil/test/features/ServiceCreateCoreClient.feature" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/movil/test/steps/ServiceCreateClientSteps.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/movil/test/utility/CommonServicesUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/com/movil/test/utility/Constant.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/sonarlint/issuestore/index.pb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/movil/test/features/services.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/movil/test/features/services.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/com/movil/test/utility/CommunUtil.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/com/movil/test/utility/CommunUtil.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/movil/test/pages/GoogleSearchPage.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/movil/test/pages/OperationPage.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/movil/test/pages/OperationPage.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/movil/test/steps/GoogleSearchSteps.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/movil/test/steps/ServicesSteps.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/movil/test/steps/ServicesSteps.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/movil/test/utility/CommunUtil.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/movil/test/utility/CommunUtil.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/movil/test/utility/Hook.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/movil/test/utility/Hook.class" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +29,109 @@
     <option name="isMigrated" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <splitter split-orientation="vertical" split-proportion="0.49716714">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/features/services.feature">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="21">
+                  <caret line="7" selection-start-line="7" selection-end-line="7" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/features/ServiceCreateCoreClient.feature">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="189">
+                  <caret line="9" selection-start-line="9" selection-end-line="9" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/steps/ServiceCreateClientSteps.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="567">
+                  <caret line="39" selection-start-line="39" selection-end-line="39" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/utility/CommonServicesUtil.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="204">
+                  <caret line="45" column="52" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
+                  <folding>
+                    <element signature="imports" expanded="true" />
+                  </folding>
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/utility/Constant.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="105">
+                  <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/steps/ServicesSteps.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="144">
+                  <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/features/operationvodqa.feature">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="155">
+                  <caret line="8" selection-start-line="8" selection-end-line="8" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/utility/Hook.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="83">
+                  <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/utility/CommunUtil.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="177">
+                  <caret line="301" column="25" selection-start-line="301" selection-start-column="25" selection-end-line="301" selection-end-column="25" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/pages/OperationPage.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="288">
+                  <caret line="116" column="71" selection-start-line="116" selection-start-column="71" selection-end-line="116" selection-end-column="71" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -27,7 +144,16 @@
     <findStrings>
       <find>2</find>
       <find>uiScrollableByText</find>
+      <find>randonNumberDni</find>
+      <find>uberCode</find>
+      <find>randomDni</find>
+      <find>segmentation</find>
+      <find>pageCount</find>
+      <find>page</find>
     </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
@@ -54,22 +180,30 @@
         <option value="$PROJECT_DIR$/src/test/java/com/movil/test/utility/Hook.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/movil/test/pages/OperationPage.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/movil/test/features/services.feature" />
+        <option value="$PROJECT_DIR$/src/test/java/ServiceCreateClientSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/movil/test/utility/Constant.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/movil/test/utility/CommunServiceUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/movil/test/steps/ServiceCreateClientSteps.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/movil/test/utility/CommonServicesUtil.java" />
         <option value="$PROJECT_DIR$/src/test/java/com/movil/test/utility/CommunUtil.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/movil/test/features/ServiceCreateCoreClient.feature" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="45" />
-    <option name="y" value="165" />
-    <option name="width" value="1385" />
-    <option name="height" value="740" />
+    <option name="x" value="545" />
+    <option name="y" value="45" />
+    <option name="width" value="1725" />
+    <option name="height" value="930" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
   </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope">
         <subPane subId="Scope 'Project Files'; set:Project Files; class com.intellij.psi.search.scope.ProjectFilesScope">
           <expand>
@@ -93,6 +227,94 @@
         </subPane>
       </pane>
       <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="testcucumbermovil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testcucumbermovil" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testcucumbermovil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testcucumbermovil" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testcucumbermovil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testcucumbermovil" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testcucumbermovil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testcucumbermovil" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testcucumbermovil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testcucumbermovil" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testcucumbermovil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testcucumbermovil" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testcucumbermovil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testcucumbermovil" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="features" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testcucumbermovil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testcucumbermovil" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testcucumbermovil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testcucumbermovil" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="services" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testcucumbermovil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testcucumbermovil" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="steps" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="testcucumbermovil" type="b2602c69:ProjectViewProjectNode" />
+              <item name="testcucumbermovil" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="utility" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -126,16 +348,29 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Cucumber java.Scenario: User calls web service to delete employe">
-    <configuration name="Scenario: User calls web service to delete employe" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Cucumber java.Scenario: User calls web service to get a book by its ISBN">
+    <configuration name="CommunUtil" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.movil.test.utility.CommunUtil" />
+      <module name="testcucumbermovil" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.movil.test.utility.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Create core client" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/com/movil/test/features/services.feature" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/com/movil/test/features/ServiceCreateCoreClient.feature" />
       <option name="GLUE" value="com.movil.test.utility com.movil.test.steps" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="testcucumbermovil" />
-      <option name="NAME_FILTER" value="^User calls web service to delete employe$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^User calls web service to delete employe$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: User calls web service to delete employe" />
+      <option name="NAME_FILTER" value="^Create core client$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Create core client$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Create core client" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -146,53 +381,15 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Scenario: User calls web service to get a book by its ISBN and get element of the body" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+    <configuration name="Scenario: User calls web service to get a book by its ISBN" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="1.2" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/com/movil/test/features/services.feature" />
       <option name="GLUE" value="com.movil.test.utility com.movil.test.steps" />
       <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
       <module name="testcucumbermovil" />
-      <option name="NAME_FILTER" value="^User calls web service to get a book by its ISBN and get element of the body$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^User calls web service to get a book by its ISBN and get element of the body$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: User calls web service to get a book by its ISBN and get element of the body" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: User calls web service to get a workers and get element of the body" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/com/movil/test/features/services.feature" />
-      <option name="GLUE" value="com.movil.test.utility com.movil.test.steps" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="testcucumbermovil" />
-      <option name="NAME_FILTER" value="^User calls web service to get a workers and get element of the body$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^User calls web service to get a workers and get element of the body$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: User calls web service to get a workers and get element of the body" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="cucumber.api.cli.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Scenario: User calls web service to get a workers and get object of the body" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
-      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
-      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/com/movil/test/features/services.feature" />
-      <option name="GLUE" value="com.movil.test.utility com.movil.test.steps" />
-      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
-      <module name="testcucumbermovil" />
-      <option name="NAME_FILTER" value="^User calls web service to get a workers and get object of the body$" />
-      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^User calls web service to get a workers and get object of the body$&quot;" />
-      <option name="SUGGESTED_NAME" value="Scenario: User calls web service to get a workers and get object of the body" />
+      <option name="NAME_FILTER" value="^User calls web service to get a book by its ISBN$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^User calls web service to get a book by its ISBN$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: User calls web service to get a book by its ISBN" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="cucumber.api.cli.*" />
@@ -222,13 +419,32 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Scenario: Validar login exitoso" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="1.2" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/com/movil/test/features/services.feature" />
+      <option name="GLUE" value="com.movil.test.utility com.movil.test.steps" />
+      <option name="MAIN_CLASS_NAME" value="cucumber.api.cli.Main" />
+      <module name="testcucumbermovil" />
+      <option name="NAME_FILTER" value="^Validar login exitoso$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvmSMFormatter --monochrome --name &quot;^Validar login exitoso$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Validar login exitoso" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cucumber.api.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Cucumber java.Scenario: User calls web service to delete employe" />
+        <item itemvalue="Cucumber java.Scenario: User calls web service to get a book by its ISBN" />
+        <item itemvalue="Cucumber java.Scenario: Create core client" />
+        <item itemvalue="Application.CommunUtil" />
+        <item itemvalue="Cucumber java.Scenario: Validar login exitoso" />
         <item itemvalue="Cucumber java.Scenario: User calls web service to update employe" />
-        <item itemvalue="Cucumber java.Scenario: User calls web service to get a workers and get object of the body" />
-        <item itemvalue="Cucumber java.Scenario: User calls web service to get a workers and get element of the body" />
-        <item itemvalue="Cucumber java.Scenario: User calls web service to get a book by its ISBN and get element of the body" />
       </list>
     </recent_temporary>
   </component>
@@ -246,41 +462,41 @@
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="Scenario__User_calls_web_service_to_get_a_book_by_its_ISBN_and_get_element_of_the_body - 2020.05.29 at 19h 52m 06s.xml">
-      <configuration name="Scenario: User calls web service to get a book by its ISBN and get element of the body" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Create_core_client - 2020.06.24 at 17h 59m 04s.xml">
+      <configuration name="Scenario: Create core client" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__User_calls_web_service_to_get_a_book_by_its_ISBN_and_get_element_of_the_body - 2020.05.29 at 19h 56m 49s.xml">
-      <configuration name="Scenario: User calls web service to get a book by its ISBN and get element of the body" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Create_core_client - 2020.06.24 at 18h 24m 27s.xml">
+      <configuration name="Scenario: Create core client" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__User_calls_web_service_to_get_a_workers_and_get_element_of_the_body - 2020.05.29 at 20h 03m 01s.xml">
-      <configuration name="Scenario: User calls web service to get a workers and get element of the body" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Create_core_client - 2020.06.24 at 18h 28m 08s.xml">
+      <configuration name="Scenario: Create core client" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__User_calls_web_service_to_get_a_workers_and_get_object_of_the_body - 2020.05.29 at 21h 24m 27s.xml">
-      <configuration name="Scenario: User calls web service to get a workers and get object of the body" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Create_core_client - 2020.06.24 at 18h 34m 23s.xml">
+      <configuration name="Scenario: Create core client" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__User_calls_web_service_to_get_a_workers_and_get_object_of_the_body - 2020.05.29 at 21h 28m 54s.xml">
-      <configuration name="Scenario: User calls web service to get a workers and get object of the body" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Create_core_client - 2020.06.24 at 18h 36m 55s.xml">
+      <configuration name="Scenario: Create core client" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__User_calls_web_service_to_get_a_workers_and_get_object_of_the_body - 2020.05.29 at 21h 32m 44s.xml">
-      <configuration name="Scenario: User calls web service to get a workers and get object of the body" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Create_core_client - 2020.06.24 at 18h 37m 12s.xml">
+      <configuration name="Scenario: Create core client" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__User_calls_web_service_to_update_employe - 2020.05.29 at 23h 24m 53s.xml">
-      <configuration name="Scenario: User calls web service to update employe" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Create_core_client - 2020.06.24 at 18h 38m 12s.xml">
+      <configuration name="Scenario: Create core client" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__User_calls_web_service_to_update_employe - 2020.05.29 at 23h 40m 19s.xml">
-      <configuration name="Scenario: User calls web service to update employe" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Create_core_client - 2020.06.24 at 19h 20m 19s.xml">
+      <configuration name="Scenario: Create core client" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__User_calls_web_service_to_delete_employe - 2020.05.29 at 23h 53m 40s.xml">
-      <configuration name="Scenario: User calls web service to delete employe" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__Create_core_client - 2020.06.24 at 20h 00m 16s.xml">
+      <configuration name="Scenario: Create core client" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
-    <history-entry file="Scenario__User_calls_web_service_to_delete_employe - 2020.05.29 at 23h 57m 39s.xml">
-      <configuration name="Scenario: User calls web service to delete employe" configurationId="CucumberJavaRunConfigurationType" />
+    <history-entry file="Scenario__User_calls_web_service_to_get_a_book_by_its_ISBN - 2020.07.23 at 18h 55m 37s.xml">
+      <configuration name="Scenario: User calls web service to get a book by its ISBN" configurationId="CucumberJavaRunConfigurationType" />
     </history-entry>
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24161074" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2738255" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -290,9 +506,9 @@
       <window_info anchor="bottom" id="ConsoleMavenPlugin" order="0" />
       <window_info anchor="bottom" id="SonarLint" order="1" />
       <window_info anchor="bottom" id="Version Control" order="2" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="3" visible="true" weight="0.61898017" />
+      <window_info anchor="bottom" id="Terminal" order="3" weight="0.23229462" />
       <window_info anchor="bottom" id="Event Log" order="4" side_tool="true" />
-      <window_info anchor="bottom" id="Messages" order="5" weight="0.15864022" />
+      <window_info anchor="bottom" id="Messages" order="5" weight="0.15722379" />
       <window_info anchor="bottom" id="Message" order="6" />
       <window_info anchor="bottom" id="Find" order="7" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
@@ -306,8 +522,8 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="5" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="6" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="7" weight="0.25" />
-      <window_info anchor="right" id="Debug" order="8" weight="0.20872483" />
-      <window_info anchor="right" id="Run" order="9" weight="0.18456376" />
+      <window_info anchor="right" id="Debug" order="8" weight="0.5993289" />
+      <window_info anchor="right" id="Run" order="9" weight="0.27919462" />
     </layout>
   </component>
   <component name="XDebuggerManager">
@@ -315,15 +531,21 @@
       <breakpoints>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/test/java/com/movil/test/utility/CommunUtil.java</url>
-          <line>57</line>
+          <line>62</line>
           <properties />
           <option name="timeStamp" value="37" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/test/java/com/movil/test/steps/ServicesSteps.java</url>
-          <line>168</line>
+          <url>file://$PROJECT_DIR$/src/test/java/com/movil/test/utility/CommunUtil.java</url>
+          <line>304</line>
           <properties />
-          <option name="timeStamp" value="47" />
+          <option name="timeStamp" value="38" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/movil/test/steps/ServicesSteps.java</url>
+          <line>47</line>
+          <properties />
+          <option name="timeStamp" value="39" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
@@ -409,14 +631,102 @@
     <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/pages/GoogleSearchPage.java" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/features/SimpleScenario.feature" />
     <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/runner/RunTest.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/utility/Hook.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/pages/OperationPage.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/features/services.feature" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/services/RestAssuredConfiguration.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/steps/OperationSteps.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/steps/ServicesSteps.java" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/features/operationvodqa.feature" />
-    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/utility/CommunUtil.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/steps/OperationSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="35" column="21" selection-start-line="35" selection-start-column="21" selection-end-line="35" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/aspectj/aspectjweaver/1.9.4/aspectjweaver-1.9.4.jar!/org/aspectj/apache/bcel/classfile/Constant.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#2444#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/services/RestAssuredConfiguration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-174">
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/steps/ServiceCreateClientSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="567">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/utility/Constant.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="5" column="46" selection-start-line="5" selection-start-column="46" selection-end-line="5" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/steps/ServicesSteps.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="41" column="29" selection-start-line="41" selection-start-column="29" selection-end-line="41" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/features/services.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/utility/CommonServicesUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="204">
+          <caret line="45" column="52" selection-start-line="45" selection-start-column="52" selection-end-line="45" selection-end-column="52" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/features/operationvodqa.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="155">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/pages/OperationPage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="116" column="71" selection-start-line="116" selection-start-column="71" selection-end-line="116" selection-end-column="71" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/utility/CommunUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="301" column="25" selection-start-line="301" selection-start-column="25" selection-end-line="301" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/utility/Hook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="83">
+          <caret line="24" column="33" selection-start-line="24" selection-start-column="33" selection-end-line="24" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/movil/test/features/ServiceCreateCoreClient.feature">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
   </component>
   <component name="masterDetails">
     <states>
